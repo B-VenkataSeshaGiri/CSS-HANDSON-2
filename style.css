@@ -1,0 +1,283 @@
+body
+{
+    border: 2px groove rgb(5, 102, 5);
+     /* This should be done last */
+     border-color: rgb(142, 244, 142);
+     border-width: 9px;
+     background-image: url(https://images.pexels.com/photos/3308588/pexels-photo-3308588.jpeg?cs=srgb&dl=pexels-mnm-zameer-3308588.jpg&fm=jpg);
+     /* background-repeat: no-repeat; */
+     
+} 
+#b
+{
+    border: 2px solid red;
+    width: 655px;
+    height: 200px;
+    margin-top: 65px;
+    margin-left: 50px;
+    border-radius: 40px;
+    background-color: black;
+    border-width: 7px;
+    color: aliceblue;
+    text-align: center;
+    line-height: 33px;
+    font-size: 40px;
+  font-style: italic;
+}
+h2
+{
+    margin-top: 18px;
+}
+#c
+{
+    border: 2px solid red;
+    width: 720px;
+    height: 100px;
+    border-radius: 33px;
+    background-color: black;
+    border-width: 7px;
+    margin-left: 620px;
+    margin-top: -200px;
+    position: relative;
+    font-style: italic;
+}
+#d
+{
+    color: aliceblue;
+    font-style: italic;
+    list-style-type: none;
+}
+.first
+{
+    float: left;
+    margin-top: 40px;
+    font-size: 30px;
+    text-align: center;
+    margin-left: 50px;
+}
+#e
+{
+    border: 2px solid red;
+    width: 455px;
+    height: 250px;
+    margin-top: -160px;
+    margin-left: 1700px;
+    border-radius: 40px;
+    background-color: black;
+    border-width: 9px;
+
+}
+.help
+{
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    font-style: italic;
+}
+#allinputs
+{
+    /* border: 2px dotted red; */
+    width: 625px;
+    margin-left: 1050px;
+    text-align: center;
+    font-size: 28px;
+    color: brown;
+    border-width: 10px;
+    margin-top: 150px;
+    
+}
+#x{
+    border: 2px dashed red;
+    width: 700px;
+    margin-left: 1000px;
+    border-width: 9px;
+    margin-right: 600px;
+    margin-top: 100px;
+   
+
+}
+#circle
+{   
+    /* display: inline; */
+    border: 3px solid #5c5858;
+    width: 600px;
+    height: 600px;
+    margin-left: 50px;
+    margin-top: 510px;
+    position:absolute;
+    border-radius: 500px;
+    border-width: 12px;
+    background-color: rgba(27, 138, 105, 0.856);
+    font-size: 40px;
+    text-align: center;  
+}
+.hi
+{
+   margin-top: 100px;
+}
+.bye
+{
+    font-size: 35px;
+}
+.hibye
+{
+    line-height: 50px;
+    font-size: 33px;
+}
+#menubox
+{
+    border: 2px solid red;
+    width: 700px;
+    height: 150px;
+    margin-left: 700px;
+    background-color: black;
+    border-width: 9px;
+    border-radius: 60px;
+    color: white;
+    font-size: 45px;
+    text-align: center;
+    line-height: 120px;
+}
+#b1
+{
+    border: 2px solid green;
+    width:620px;
+    height: 550px;
+    background-color: rgb(117, 206, 241);
+    margin-left: 70px;
+    border-radius: 125px;
+    border-width: 9px;
+    position: relative;
+}
+#starters
+{
+    font-size:60px;
+    text-align: center;
+    margin-top: 80px;
+    display: inline;
+    margin-left: 205px;
+
+}
+#starteritems
+{
+    font-size: 40px;
+    /* margin-left: 150px; */
+}
+#b2
+{
+    border: 2px solid green;
+    width:620px;
+    height: 550px;
+    background-color: rgb(117, 206, 241);
+    margin-left: 790px;
+    border-radius: 125px;
+    border-width: 9px;
+    margin-top: -568px;  
+    position: relative; 
+}
+#b1:starters
+{
+    line-height: -25px;
+}
+#South_Indian
+{
+    margin-top: 40px;
+    font-size: 40px;
+    /* margin-left: 150px; */
+}
+#xyz
+{
+    font-size: 50px;
+    margin-left: 165px;
+    line-height: 20px;
+}
+#b3
+{
+    border: 2px solid green;
+    width:620px;
+    height: 550px;
+    background-color: rgb(117, 206, 241);
+    margin-left: 1500px;
+    border-radius: 125px;
+    border-width: 9px;
+    position: relative;
+    margin-top: -568px;  
+}
+#Indian_Kitchen
+{
+    margin-top: 40px;
+    font-size: 40px;
+    margin-left: 160px;
+    line-height: 40px;
+}
+#IK
+{
+    font-size: 40px;
+    /* margin-left: 150px; */
+}
+#b4
+{
+    border: 2px solid green;
+    width:620px;
+    height: 550px;
+    background-color: rgb(117, 206, 241);
+    margin-left: 70px;
+    border-radius: 125px;
+    border-width: 9px;
+    margin-top: 145px;
+    position: relative;
+}
+#b5
+{
+    border: 2px solid green;
+    width:620px;
+    height: 550px;
+    background-color: rgb(117, 206, 241);
+    margin-left: 790px;
+    border-radius: 125px;
+    border-width: 9px;
+    margin-top: -568px;
+    position: relative;   
+}
+#b6
+{
+    border: 2px solid green;
+    width:620px;
+    height: 750px;
+    background-color: rgb(117, 206, 241);
+    margin-left: 1500px;
+    border-radius: 125px;
+    border-width: 9px;
+    margin-top: -568px;
+    position: relative; 
+}
+#RS
+{
+    text-align: center;
+    font-size: 40px;
+}
+#rs
+{
+    font-size: 40px;
+    /* margin-left:150px; */
+}
+#TB
+{
+    text-align: center;
+    font-size: 40px;
+}
+#tb
+{
+    font-size: 40px;
+    /* margin-left:150px; */
+}
+#BO
+{
+    text-align: center;
+    font-size: 55px;
+}
+#bo
+{
+    font-size: 40px;
+    /* margin-left:150px; */
+}
